@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050437902293",
+    "project_id": "newfb-201e9",
+    "storage_bucket": "newfb-201e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050437902293:android:e70f0825348f1ad39b675c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050437902293-pf905v3ah38m08114iojtg23bc9a3ajk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr92O7kagWZiYSH6ytoCvIVVbEQSf0hR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050437902293-pf905v3ah38m08114iojtg23bc9a3ajk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
